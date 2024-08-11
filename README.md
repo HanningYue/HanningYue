@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Hanning.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Jamie.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ## About Me    
-I'm a current MSCS graduate student at Seattle with a focus on building scalable microservices and full-stack applications. My experience spans various modern web technologies and cloud infrastructure. When I'm not coding, I enjoy exploring Pacific North West great natruals, playing chess, and working on side projects that push the boundaries of my knowledge.
+I'm a current MSCS graduate student in Seattle with a focus on building scalable microservices and full-stack applications. My experience spans various modern web technologies and cloud infrastructure. When I'm not coding, I enjoy exploring the Pacific Northwest's great natural beauty, playing chess, and working on side projects that push the boundaries of my knowledge.
     
 
 ## Languages and Tools 
@@ -59,7 +59,7 @@ I'm a current MSCS graduate student at Seattle with a focus on building scalable
 </div>
 
 <p align="center">
- <img width="1000" src="asset/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/HanningYue/HanningYue/blob/main/asset/github-snake.svg" alt="snake"/>
 </p>
 
 
