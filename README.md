@@ -63,7 +63,6 @@ I'm a current MSCS graduate student in Seattle with a focus on building scalable
 </p>
 
 
-
 ### Connect with Me 
 
 <p align="center">
