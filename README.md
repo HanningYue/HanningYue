@@ -52,11 +52,6 @@ I'm a current MSCS graduate student in Seattle with a focus on building scalable
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=HanningYue&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanningYue&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
- 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=HanningYue&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <p align="center">
  <img width="1000" src="https://github.com/HanningYue/HanningYue/blob/main/asset/github-snake.svg" alt="snake"/>
