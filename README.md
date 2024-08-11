@@ -8,9 +8,9 @@ I'm a current MSCS graduate student in Seattle with a focus on building scalable
 
 
 ### Languages:
-| JavaScript | TypeScript | Python | Java | SQL |
-|----------|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/> |
+| JavaScript | TypeScript | Java | SQL |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/> |
 
   
 
@@ -50,6 +50,14 @@ I'm a current MSCS graduate student in Seattle with a focus on building scalable
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanningYue&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+
+### My Resume
+
+<p align="center">
+<a href="https://github.com/HanningYue/HanningYue/blob/main/asset/New_Resume.pdf">
+    <img src="https://github.com/HanningYue/HanningYue/blob/main/asset/New_Resume-1.png" alt="Hanning Yue's Resume" width="600px"/>
+</a>
 </p>
 
 <p align="center">
