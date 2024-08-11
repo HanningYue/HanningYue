@@ -24,9 +24,9 @@ I'm a current MSCS graduate student in Seattle with a focus on building scalable
 
 ### My tools for Development:
 
-| GitHub Actions | Postman | Skaffold | Redis | NGINX | Vercel |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://avatars.githubusercontent.com/u/47928741?s=200&v=4" title="Skaffold" alt="Skaffold" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/>|<img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" title="Vercel" alt="Vercel" width="55" height="55"/>|
+| Postman | Skaffold | Redis | NGINX | Vercel |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://avatars.githubusercontent.com/u/47928741?s=200&v=4" title="Skaffold" alt="Skaffold" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/>|<img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" title="Vercel" alt="Vercel" width="55" height="55"/>|
 
 
 
