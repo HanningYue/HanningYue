@@ -56,9 +56,7 @@ Also, check out my Personal Website: https://www.hanningyue.com/
 ### My Resume
 
 <p align="center">
-<a href="https://github.com/HanningYue/HanningYue/blob/main/asset/New_Resume.pdf">
-    <img src="https://github.com/HanningYue/HanningYue/blob/main/asset/New_Resume-1.png" alt="Hanning Yue's Resume" width="600px"/>
-</a>
+    <img src="https://github.com/HanningYue/HanningYue/blob/main/asset/Resume.png" alt="Hanning Yue's Resume" width="600px"/>
 </p>
 
 <p align="center">
