@@ -2,6 +2,7 @@
 
 ## About Me    
 I'm a current MSCS graduate student in Seattle with a focus on building scalable microservices and full-stack applications. My experience spans various modern web technologies and cloud infrastructure. When I'm not coding, I enjoy exploring the Pacific Northwest's great natural beauty, playing chess, and working on side projects that push the boundaries of my knowledge.
+Also, check out my Personal Website: https://www.hanningyue.com/
     
 
 ## Languages and Tools 
